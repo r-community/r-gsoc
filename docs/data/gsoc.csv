@@ -12,7 +12,7 @@ Year	Project	WorkProduct	Student	Mentors
 2010	A GUI for Graphics Using ggplot2 and Deducer	GUI	Ian Fellows	Hadley Wickham
 2010	rgeos - an R wrapper for GEOS	Package	rundel	Roger Bivand
 2011	optile Category order optimization for graphical displays of categorical data	Package	Alexander Pilhöfer	Rosuda93
-2011	Manipulating RStudio Graphics Towards Creating Intuitive Mathematical Comprehension	GUI Visualization	Andrew Rich	Daniel Kaplan, JJ Allaire
+2011	Manipulating RStudio Graphics Towards Creating Intuitive Mathematical Comprehension GUI Visualization	Andrew Rich	Daniel Kaplan, JJ Allaire
 2011	R-EM-Accelerator---Smarter Iterative Schemes Save Your Time	Package	Hui Zhao	Roger Peng, Ravi Varadhan
 2011	Convergence acceleration of the Expectation-Maximization (EM) algorithms in computational statistics: A suite of cutting-edge acceleration schemes	Package	Jennifer	Ravi Varadhan
 2011	SMART: Sparse Multivariate Adaptive Regression Toolkit	Package	Juemin	Han Liu
