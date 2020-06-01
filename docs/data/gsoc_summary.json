@@ -4,8 +4,8 @@
       "total_projects": 235,
       "total_mentors": 221,
       "total_students": 207,
-      "student_mentors": 30,
-      "numberOfMentoredProjectsByPastStudents": 91,
+      "student_mentors": 31,
+      "numberOfMentoredProjectsByPastStudents": 92,
       "numberOfReturningStudents": 23
     }
   ],
@@ -77,6 +77,10 @@
     {
       "mentor_name": "Simon Fuller",
       "Freq": 2
+    },
+    {
+      "mentor_name": "",
+      "Freq": 1
     },
     {
       "mentor_name": "Akash Tandon",
