@@ -3,10 +3,10 @@
     {
       "total_projects": 235,
       "total_mentors": 221,
-      "total_students": 207,
-      "student_mentors": 31,
-      "numberOfMentoredProjectsByPastStudents": 92,
-      "numberOfReturningStudents": 23
+      "total_students": 206,
+      "student_mentors": 30,
+      "numberOfMentoredProjectsByPastStudents": 91,
+      "numberOfReturningStudents": 24
     }
   ],
   "student_now_mentor": [
@@ -77,10 +77,6 @@
     {
       "mentor_name": "Simon Fuller",
       "Freq": 2
-    },
-    {
-      "mentor_name": "",
-      "Freq": 1
     },
     {
       "mentor_name": "Akash Tandon",
@@ -215,6 +211,10 @@
       "Freq": 2
     },
     {
+      "student_name": "Salsabila Mahdi",
+      "Freq": 2
+    },
+    {
       "student_name": "Sangeetha Srinivasan",
       "Freq": 2
     },
@@ -301,16 +301,16 @@
       "Freq": 7
     },
     {
+      "mentor_name": "John Nash",
+      "Freq": 7
+    },
+    {
       "mentor_name": "Joshua Ulrich",
       "Freq": 7
     },
     {
       "mentor_name": "Narayani Barve",
       "Freq": 7
-    },
-    {
-      "mentor_name": "Claudia Beleites",
-      "Freq": 6
     }
   ]
 }
